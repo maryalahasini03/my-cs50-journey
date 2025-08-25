@@ -39,6 +39,7 @@ My Contributions
 - Built simple recursive solutions (e.g., pointer-based searches)
 
 ⚠ Disclaimer
+
 This repository does not include official CS50 solutions.
 It contains my own practice code and concept-oriented examples for educational purposes only.
 Avoid copying this work for coursework, as it may violate the CS50 Academic Honesty Policy.
